@@ -20,9 +20,9 @@
 
 ### [Mitología nórdica y gérmanica] ()
 
-### [Temas principales] ()
+### [Temas principales]()
 
-### [Construcción narrativa] (https://github.com/Marcosalu/Tetralogia.github.io/blob/html/Construcci%C3%B3n%20narrativa.md)
+### [Construcción narrativa](https://github.com/Marcosalu/Tetralogia.github.io/blob/html/Construcci%C3%B3n%20narrativa.md)
 
 
 
