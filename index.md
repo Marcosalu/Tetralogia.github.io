@@ -1,6 +1,28 @@
-# Temas principales en *El Anillo del Nibelungo*
+# Tetralogia del Anillo de Richard Wagner
 
-## Poder
+## Importancia Cultural
 
-El poder, representado principalmente por el anillo forjado por Alberich, es el eje central de la tetralogía. Este anillo confiere dominio absoluto sobre el mundo, pero también conlleva una maldición que simboliza la corrupción inherente al deseo de poder.
+### [Wagner y su influencia] ()
+
+### [Impacto en la cultura] ()
+
+### [Legado] ()
+
+## Tratamiento de la Música
+
+### [Leitmptiv] ()
+
+### [Orquestación innovadora] ()
+
+### [Desarrollo temático] ()
+
+## Narrativa
+
+### [Mitología nórdica y gérmanica] ()
+
+### [Temas principales] ()
+
+### [Construcción narrativa] (https://github.com/Marcosalu/Tetralogia.github.io/blob/html/Construcci%C3%B3n%20narrativa.md)
+
+
 
