@@ -32,6 +32,7 @@ Como ya hemos mencionado, Wagner utilizó numerosos instrumentos poco comunes en
   - Clarinetes  
   - Fagotes
     # IMÁGEN FAGOTES
+    - [Sonido](https://www.youtube.com/watch?v=vIPb8nXIjY4)
     ![Fagotes](https://m.media-amazon.com/images/I/51QN+Y9NxWL._AC_UF894,1000_QL80_.jpg)
 
 - **Saxofón y maderas**  
@@ -39,6 +40,7 @@ Como ya hemos mencionado, Wagner utilizó numerosos instrumentos poco comunes en
   - Saxofones  
   - Flautas y/o clarinetes
     # IMÁGEN SAXOFÓN
+    - [Sonido](https://www.youtube.com/watch?v=Wp3XvHWgRqc)
    ![Saxonfones](https://i.multisononline.com/blog/wp-content/uploads/2021/02/saxo-alto.jpg)  
 
 - **Tuba wagneriana y cuerdas graves**  
@@ -46,6 +48,8 @@ Como ya hemos mencionado, Wagner utilizó numerosos instrumentos poco comunes en
   - La Tuba Wagneriana  
   - Cuerdas graves
     # IMÁGEN TUBA WAGNERIANA
+    - [Sonido](https://www.youtube.com/watch?v=UNTmBDAgotQ)
     ![Tuba Wagnerianas](https://musical-perales.es/wp-content/uploads/2022/01/tuba-wagneriana-sib-fa-hans-hoyer-4826-lacada-hh4826g-1-0gb-174107.png)
+    
 
    
