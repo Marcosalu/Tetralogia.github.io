@@ -1,4 +1,10 @@
-# Tetralogia del Anillo de Richard Wagner
+# Tetralogía del Anillo de Richard Wagner
+
+La tetralogía de Richard Wagner son cuatro obras con una temática dramática que juntas suman unas 15 horas en total , la obra profundiza en personajes principales como Wotan o Sigfrido .
+
+Esta tetralogía hizo una antes y un después en muchas cosas , principalmente en su apartado sonoro creando el concepto de Leitmotiv , además Richard decidió añadir instrumentos poco comunes o combinar los ya usados para formar melodías algo diferentes , esto lo consiguió debido a que incremento considerablemente el número de instrumentos en la orquesta .
+
+Debido a la cantidad de logros que consiguió Richard Wagner con esta tetralogía hemos separado su contenido en estas ramas :
 
 ## Importancia Cultural
 
